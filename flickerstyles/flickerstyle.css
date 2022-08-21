@@ -1,0 +1,279 @@
+h1 {
+    font-family: 'Roboto Mono', monospace;
+}
+h2 {
+    font-family: 'Roboto Mono', monospace;  
+}  
+h3 {
+    font-family: 'Roboto Mono', monospace;
+}   
+h4 {
+    font-family: 'Roboto Mono', monospace;
+}   
+h5 {
+    font-family: 'Roboto Mono', monospace;
+}   
+h6 {
+    font-family: 'Roboto Mono', monospace;
+}   
+
+header {
+    background: #9ea732;
+}
+
+body {
+    background: #060f0c
+    ;
+}
+
+.logo img {
+width: 100px;
+padding: 1px 30px 25px 15px;
+
+}
+
+
+
+nav {
+    max-width: 1200px;
+    margin: 0 auto;
+    overflow: auto;
+    padding: 20px;
+}
+
+
+
+
+.logo {
+float: left;
+}
+
+.wrap {
+    width: 900px;
+    padding: 20px;
+    margin: 0 auto; 
+}
+
+#title {
+color: #ad1b56;
+
+}
+
+p, li {
+    font-family: 'Josefin Slab', serif; 
+    font-size: 25px; 
+}
+
+.tagline {
+   margin-top: -10px;
+   margin-left: 30px;
+   margin-right: 10px;
+   margin-bottom: 20px;
+   font-size: 23px;
+   font-family:'Josefin Slab', serif;
+   color: #faf8ea;
+}
+
+#navigation {
+    float: right;
+    margin-top: -53px;
+}
+
+#navigation a {
+    font-family: 'Roboto Mono', monospace;
+    color: #000;
+    text-decoration: none;
+    padding: 20px;
+    font-size: 24px;
+    
+    }
+
+#navigation a:hover {
+    color: #fff;
+}
+
+
+
+#section-one {
+    text-align: center;
+}
+
+#section-one ul {
+    text-align: left;
+    font-size: 30px;
+}    
+
+#section-one img {
+ width: 500px;
+}
+
+#section-one nav a {
+    font-family: 'Josefin Slab', serif;
+    text-decoration: none;
+    color: #e8e1be;
+    padding: 20px;
+    font-size: 28px;
+}
+
+#section-one nav a:hover {
+    color: #fff;
+}
+
+
+#section-one h1 {
+    font-size: 50px;
+}
+
+#section-one li {
+    font-family: 'Josefin Slab', serif;
+    font-size: 30px;
+}
+
+#section-two {
+  background: url('../images/Artiststudio3.jpg') no-repeat;
+  padding: 50px;
+  margin-bottom: 0px;
+  
+} 
+
+#section-two .wrap {
+   background: rgba(158, 167, 50, 0.8);
+   border-radius: 1%;
+   overflow: auto;
+   padding-top:10px;
+   padding-bottom: 10px;
+} 
+#section-three {
+  background-color:#ad1b56;  
+  margin-bottom: 0px;
+  
+}
+#section-three .wrap {
+	overflow: auto;
+    width: 910px;
+    padding-left: 0px;
+    padding-top: 0px;
+}
+
+#section-three .wrap #img {
+	width: 48%;
+	float: left;
+	padding-right: 4%;
+   margin-top: 40px;
+   
+}
+
+#section-three .wrap #img img {
+	width: 100%;
+    border-radius: 1%;
+    padding-top: 10px;
+    padding-bottom: 30px;
+   
+}
+
+#section-three .wrap #text {
+	width: 48%;
+	float: left;
+    color: #000; 
+    padding-top: 110px;
+}
+
+#section-four {
+    background: url('../images/technology-1283624_1920.jpg') no-repeat;
+    padding-top: 50px;
+  
+
+}
+
+#section-four .wrap {
+   background: rgba(158, 167, 50, 0.8);
+   border-radius: 1%;
+   overflow: auto;
+   padding-top:10px;
+   padding-bottom: 10px;
+   margin-bottom: 50px;
+}
+
+footer {
+    background: #8e923c;
+    text-align: center;
+    color: #ff3297;
+    
+    
+}
+
+.logo.footer {
+    float: none;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    
+}
+
+.text.footer {
+    color:#000;
+    padding-bottom: 20px;
+}
+
+#about-section-two {
+    background-color:#ad1b56;  
+    margin-bottom: 0px;
+    
+  }
+#about-section-two .wrap {
+      overflow: auto;
+      width: 910px;
+      padding-left: 0px;
+      padding-top: 40px;
+  }
+  
+#about-section-two .wrap #img {
+      width: 48%;
+      float: left;
+      padding-right: 4%;
+      margin-top: 0px;
+     
+  }
+  
+#about-section-two .wrap #img img {
+      width: 100%;
+      border-radius: 1%;
+      padding-top: 10px;
+      padding-bottom: 30px;
+     
+  }
+  
+#about-section-two .wrap #text {
+      width: 48%;
+      float: left;
+      color: #000; 
+      padding-top: 10px;
+  }
+
+#about-section-two-text {
+     margin-top: 125px;
+}
+
+
+#about-section-three .wrap {
+      overflow: auto;
+      width: 910px;
+      padding: 20px;
+      margin: 0 auto;
+      padding-left: 0px;
+      padding-top: 20px;
+      padding-bottom: 60px;
+  }
+
+#about-section-three .wrap #vid {
+    float: left;
+    padding-top: 0px;
+  }
+
+#about-section-three p {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 25px; 
+    color:#ad1b56;
+}
+
+
+
